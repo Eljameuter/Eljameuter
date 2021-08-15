@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Eljameuter
 - 👀 I’m interested in aerospace engineering and all things robotic
 - 🌱 I’m currently learning arduino and raspberrypi stuff 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: elja.meuter@gmai.com
 
 <!---
 Eljameuter/Eljameuter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
